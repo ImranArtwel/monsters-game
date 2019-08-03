@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-game/static/css/main.bc26ac44.chunk.css",
+    "main.js": "/monsters-game/static/js/main.84cdfde5.chunk.js",
+    "main.js.map": "/monsters-game/static/js/main.84cdfde5.chunk.js.map",
+    "runtime~main.js": "/monsters-game/static/js/runtime~main.341fa549.js",
+    "runtime~main.js.map": "/monsters-game/static/js/runtime~main.341fa549.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/monsters-game/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/monsters-game/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/monsters-game/index.html",
+    "precache-manifest.0c2849319b694294ecb09fd8fe16c755.js": "/monsters-game/precache-manifest.0c2849319b694294ecb09fd8fe16c755.js",
+    "service-worker.js": "/monsters-game/service-worker.js",
+    "static/css/main.bc26ac44.chunk.css.map": "/monsters-game/static/css/main.bc26ac44.chunk.css.map"
+  }
+}
